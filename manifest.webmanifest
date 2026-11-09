@@ -1,0 +1,17 @@
+{
+  "name": "착즙팀 업무 포털",
+  "short_name": "착즙팀 포털",
+  "description": "착즙팀 생산기록·대두 SILO·정비·부품·주간생산계획표",
+  "lang": "ko",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f5f0",
+  "theme_color": "#0f3d34",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
